@@ -3,7 +3,7 @@
 > **Important:** The engine hasn't been tested bit for bit against a trusted evaluator.
 
 
-> **Note:** Breeze Engine will have double releases in the future, one will be the UCI compatible version, and the other one will be the main version of the engine where I, Sapphire, will put a bigger quantity of my work, as this newer version will use my own interface, BCI(Breeze Chess Interface), this is to ensure compatibility and to avoid trouble with commandd later, the UCI version is assured to NEVER be deprecated, I will put as much work as I can to ensure both the Universal Chess Interface and Breeze Chess Interface versions have the same playing strength.
+> **Note:** Breeze Engine will have double releases in the future, one will be the UCI compatible version, and the other one will be the main version of the engine where I, Sapphire, will put a bigger quantity of my work, as this newer version will use my own interface, BCI(Breeze Chess Interface), this is to ensure compatibility and to avoid trouble with commands later, the UCI version is assured to NEVER be deprecated, I will put as much work as I can to ensure both the Universal Chess Interface and Breeze Chess Interface versions have the same playing strength.
 
 ## Included
 
