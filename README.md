@@ -1,6 +1,9 @@
 # Breeze 5
 
-> **Important NNUE status:** SFNNv20 file loading, feature extraction, layer-stack selection, scalar neural inference, and UCI/search integration are implemented in this experimental build. It has passed local load, evaluate, search, and perft smoke tests, but has **not** been verified bit-for-bit against a trusted reference evaluator. It is not yet an optimized incremental NNUE engine; use it as an experimental test build, not a rated-strength release.
+> **Important:** The engine hasn't been tested bit for bit against a trusted evaluator.
+
+
+> **Note:*** Breeze Engine will have double releases in the future, one will be the UCI compatible version, and the other one will be the main version of the engine where I, Sapphire, will put a bigger quantity of my work, as this newer version will use my own interface, BCI(Breeze Chess Interface), this is to ensure compatibility and to avoid trouble with commandd later, the UCI version is assured to NEVER be deprecated, I will put as much work as I can to ensure both the Universal Chess Interface and Breeze Chess Interface versions have the same playing strength.
 
 ## Included
 
