@@ -12,7 +12,7 @@
 - Iterative-deepening alpha-beta search with PVS, aspiration windows, quiescence search, transposition table, null-move pruning, late-move reductions, killer/history ordering, repetition and 50-move handling, and insufficient-material detection.
 - UCI protocol support for the common ChessBase workflow: `uci`, `isready`, `ucinewgame`, `setoption`, `position`, `go`, `stop`, `ponderhit`, and `quit`; plus useful diagnostic commands `eval`, `d`, and `perft`.
 - `go depth`, `go nodes`, `go movetime`, clock controls, `go searchmoves`, `go mate`, `go infinite`, `go ponder`, and `go perft`.
-- UCI options: `Hash`, `Threads` (currently limited to 1), `Move Overhead`, `Use NNUE`, `EvalFile`, and `Clear Hash`.
+- UCI options: `Hash`, `Threads` (currently offering 1 to 64), `Move Overhead`, `Use NNUE`, `EvalFile`, and `Clear Hash`.
 - SFNNv20 loader and original scalar inference for K32H3, FullThreats, PP_3Wide, 92 compact layer stacks, and the 1024→32→32→1 head.
 - Perft regression tests covering six reference positions.
 
