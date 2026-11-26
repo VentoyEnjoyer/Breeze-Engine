@@ -3,7 +3,7 @@
 > **Important:** The engine hasn't been tested bit for bit against a trusted evaluator, and currently plays at a very low quality, making errors such as making the king leave it's initial square for no reason, these problems are already being fixed in version 5.1.0, which I am currently working on right now, version 5.1.0 is expected to come 2 months from the date of this commit.
 
 
-> **Note:** Breeze Engine will have double releases in the future, one will be the UCI compatible version, and the other one will be the main version of the engine where I, Sapphire, will put a bigger quantity of my work, as this newer version will use my own interface, BCI(Breeze Chess Interface), this is to ensure compatibility and to avoid trouble with commands later, the UCI version is assured to NEVER be deprecated, I will put as much work as I can to ensure both the Universal Chess Interface and Breeze Chess Interface versions have the same playing strength.
+> **Note:** Breeze Engine will have double releases in the future, one will be the UCI compatible version, and the other one will be the main version of the engine where I, Sapphire, will put a bigger quantity of my work, as this newer version will use my own interface, BCI(Breeze Chess Interface), this is to ensure compatibility and to avoid trouble with commands later, the UCI version is assured to NEVER be deprecated, I will put as much work as I can to ensure both the Universal Chess Interface and Breeze Chess Interface versions have the same playing strength, and on another note, Breeze will use it's own neural network in the future.
 
 ## Included
 
